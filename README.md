@@ -165,12 +165,13 @@ In Visual Studio, open NuGet Package Manager Console from Tools -> NuGet Package
 ```
 ## Project Example
 In this Project we use from :
-1-  Shadow Property in Entity Framework Core
-2- Conversions in Entity Framework Core
-3- Query Filter in Entity Framework Core
-4- Value Generator in Entity Framework Core
-5- Owns
-6- Property Configuration
+
+1.  Shadow Property in Entity Framework Core
+2. Conversions in Entity Framework Core
+3. Query Filter in Entity Framework Core
+4. Value Generator in Entity Framework Core
+5. Owns
+6. Property Configuration
 
 ---
 i hope so enjoy That.
